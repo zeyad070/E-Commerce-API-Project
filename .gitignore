@@ -1,15 +1,23 @@
-## .NET
+## .NET Core / ASP.NET Core
 bin/
 obj/
 *.user
 *.suo
 *.cache
-.vs/
-.vscode/
 *.userosscache
 *.sln.docstates
 
-## Build results
+## Visual Studio
+.vs/
+*.userprefs
+*.sln.ide/
+*.sln.dfstatelocal
+
+## VS Code / Editors
+.vscode/
+.idea/
+
+## Build outputs
 Debug/
 Release/
 x64/
@@ -27,27 +35,11 @@ logs/
 *.nuget.props
 *.nuget.targets
 
-## Visual Studio
-*.sln.ide/
-*.sln.dfstatelocal
-*.userprefs
-
 ## Rider / JetBrains
-.idea/
 *.sln.iml
 *.DotSettings.user
 
-## Secrets / Configuration
-appsettings.json
-appsettings.*.json
-appsettings.*.local.json
-secrets.json
-
-## ASP.NET
-wwwroot/uploads/*
-!wwwroot/uploads/.gitkeep
-
-## Logs / OS
+## Logs / OS files
 *.log
 Thumbs.db
 .DS_Store
