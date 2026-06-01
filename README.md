@@ -235,12 +235,6 @@ The application seeds the database on first run with:
 
 ---
 
-## Screenshots
-
-> Screenshots will be added here as the project evolves. Consider including images of your Scalar API documentation page, a sample API response in Postman, and the database diagram.
-
----
-
 ## Future Improvements
 
 - **Refresh Token support** — Improve authentication security with refresh token rotation.
@@ -265,4 +259,3 @@ The application seeds the database on first run with:
 
 ---
 
-> **License:** This project is for demonstration and portfolio purposes.
