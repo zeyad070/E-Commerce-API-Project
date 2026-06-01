@@ -260,8 +260,8 @@ The application seeds the database on first run with:
 
 **Senior .NET Developer** — Built with a focus on clean architecture, separation of concerns, and industry best practices.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zeyad-rabeea-901244241/)
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)](https://github.com/zeyad070)
 
 ---
 
