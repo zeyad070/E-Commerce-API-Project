@@ -4,52 +4,49 @@ obj/
 *.user
 *.suo
 *.cache
-*.vs/
+.vs/
 .vscode/
 *.userosscache
 *.sln.docstates
 
 ## Build results
-[Dd]ebug/
-[Rr]elease/
+Debug/
+Release/
 x64/
 x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
+Win32/
+Arm/
+Arm64/
 bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
+log/
+logs/
 
 ## NuGet
 *.nupkg
-**/[Pp]ackages/*
-!**/[Pp]ackages/build/
+**/packages/*
 *.nuget.props
 *.nuget.targets
 
 ## Visual Studio
 *.sln.ide/
 *.sln.dfstatelocal
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
 *.userprefs
 
-## Rider
+## Rider / JetBrains
 .idea/
 *.sln.iml
-
-## JetBrains
 *.DotSettings
 
 ## Secrets
 appsettings.*.local.json
+appsettings.*.json
 secrets.json
 
 ## ASP.NET
 wwwroot/uploads/*
 !wwwroot/uploads/.gitkeep
+
+## Logs / OS
+*.log
+Thumbs.db
+.DS_Store
