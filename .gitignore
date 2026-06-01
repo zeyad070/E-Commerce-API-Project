@@ -35,11 +35,12 @@ logs/
 ## Rider / JetBrains
 .idea/
 *.sln.iml
-*.DotSettings
+*.DotSettings.user
 
-## Secrets
-appsettings.*.local.json
+## Secrets / Configuration
+appsettings.json
 appsettings.*.json
+appsettings.*.local.json
 secrets.json
 
 ## ASP.NET
