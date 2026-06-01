@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ProductApp.Common/ProductApp.Common.csproj" />
+  <Project Path="ProductApp.BLL/ProductApp.BLL.csproj" />
+  <Project Path="ProductApp.DAL/ProductApp.DAL.csproj" />
+  <Project Path="ProductSystem.APIs/ProductSystem.APIs.csproj" />
+</Solution>
